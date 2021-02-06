@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "ababc362af7ca9cef07d7a8aca9f9360"
+build_time: [1612654213, 317271000]
+inputs:
+  "/Users/lincolnnguyen/Desktop/autolayout test/autolayout test/ViewController.swift": [1612652900, 254206618]
+  "/Users/lincolnnguyen/Desktop/autolayout test/autolayout test/AppDelegate.swift": [1612652900, 240267704]
+  "/Users/lincolnnguyen/Desktop/autolayout test/autolayout test/SceneDelegate.swift": [1612652900, 250066788]
