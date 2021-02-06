@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1231D16A-6446-40A0-8E09-3193C92F0DDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1231D16A-6446-40A0-8E09-3193C92F0DDF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>autolayout test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>autolayout test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run autolayout test</string>
+			<key>timeStartedRecording</key>
+			<real>634348079.82980299</real>
+			<key>timeStoppedRecording</key>
+			<real>634348090.79480398</real>
+			<key>title</key>
+			<string>Run autolayout test</string>
+			<key>uniqueIdentifier</key>
+			<string>1231D16A-6446-40A0-8E09-3193C92F0DDF</string>
+		</dict>
+		<key>8F5F29EF-966C-4ADA-9123-47F415BB9EF3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F5F29EF-966C-4ADA-9123-47F415BB9EF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>autolayout test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>autolayout test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run autolayout test</string>
+			<key>timeStartedRecording</key>
+			<real>634348055.12452495</real>
+			<key>timeStoppedRecording</key>
+			<real>634348058.69885194</real>
+			<key>title</key>
+			<string>Run autolayout test</string>
+			<key>uniqueIdentifier</key>
+			<string>8F5F29EF-966C-4ADA-9123-47F415BB9EF3</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
